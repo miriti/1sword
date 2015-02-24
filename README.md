@@ -1,3 +1,7 @@
-1 SWORD
-====
-![Screenshot](https://raw.github.com/miriti/ld28/master/screenshot.png "1 SWORD")
+# 1 SWORD
+
+A game made for Ludum Dare #27
+
+![Screenshot](https://raw.github.com/miriti/1sword/master/screenshot.png "1 SWORD")
+
+[Play](http://miriti.github.io/games/onesword/)
